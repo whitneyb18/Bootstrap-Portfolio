@@ -1,0 +1,64 @@
+body {
+    background-image: url(../images/brickwall_@2X.png); 
+}
+.container {
+    background-color: #ffffff;
+    padding: 20px;
+}
+.bodyHead {
+    border-bottom: #cccccc solid 3px;
+}
+.Jumbotron {
+    margin-top: 2rem;
+}
+.navbarName {
+    background-color: #4aaaa5;
+    margin: 0px 0px 0px 20px;
+    padding: 20px
+}
+.navName {
+    margin: 0px;
+    color: white;
+}
+#navbarNav {
+    background-color: lavenderblush;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+    padding: 0px;
+}
+.colContent {
+    padding: 10px;
+}
+.navbar.fixed-bottom.navbar-light.bg-light {
+    background-color: #777777;
+    border-top: #4aaaa5 solid 3px;
+}
+.footerText {
+    margin: auto;
+    font-size: 12px;
+}
+.navBar {
+    position: relative;
+}
+ul {
+    position: absolute;
+    right: 0px;
+    margin-right: 20px;
+}
+.contactForm {
+    padding: 20px;
+}
+.contentHead {
+    color: #4aaaa5;
+}
+.btn.btn-primary {
+    background-color: #4aaaa5;
+    border: 0px;
+    border-radius: 0px
+}
+.card {
+    margin-top: 20px;
+}
+h2 {
+    padding-bottom: 10px
+}
